@@ -22,4 +22,4 @@ Simulate participants from study using given parameters.
 
 ![](figures/12_09_2021/deaffEx.png)
 
-![](figures/12_09_2021/ExT_I.W.gif)
+![](figures/12_09_2021/ExT_I.W..gif)
