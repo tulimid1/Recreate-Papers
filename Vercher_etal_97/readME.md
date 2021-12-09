@@ -18,7 +18,7 @@ Simulate participants from study using given parameters.
 
 ![](figures/12_09_2021/controlEx.png)
 
-![](figures/12_09_2021/ExT_Control.gif)
+![](Vercher_etal_97/figures/12_09_2021/ExT_Control.gif)
 
 ![](figures/12_09_2021/deaffEx.png)
 
