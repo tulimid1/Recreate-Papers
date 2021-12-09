@@ -4,7 +4,7 @@ Simulate participants from study using given parameters.
 
 ## Figures 1 and 2 
 
-![](figures/12_09_2021/controlHist.png)
+![](/figures/12_09_2021/controlHist.png)
 
 ![](figures/12_09_2021/deaffHist.png)
 
